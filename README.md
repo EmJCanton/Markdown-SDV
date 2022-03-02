@@ -32,3 +32,5 @@ Pros to D&D | Cons to D&D
 Pretty Dice | Time Commitment
 Spend time with friends | Can drag on
 Live out your fantasies | Math
+
+:laughing: :kissing_heart: :green_heart:
