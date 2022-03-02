@@ -34,3 +34,5 @@ Spend time with friends | Can drag on
 Live out your fantasies | Math
 
 :laughing: :kissing_heart: :green_heart:
+
+![Emma is sexxxxxxy](images/emmaprofilepic.jpg)
