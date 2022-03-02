@@ -43,4 +43,5 @@ Live out your fantasies | Math
 - [ ] port all D&D notes to Obsidian \(in progress\)
 - [x] Have a good day :smile:
 
+Backticks allow code to show up in a ReadMe with a block background
 `console.Log {"Hello World"}`
