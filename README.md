@@ -21,3 +21,8 @@
 http://facebook.com
 
 [Facebook](http://facebook.com)
+
+As Calen once said...
+> By Merlin's Frilly Panties!
+
+\*Shocked face\*
