@@ -36,3 +36,9 @@ Live out your fantasies | Math
 :laughing: :kissing_heart: :green_heart:
 
 ![Emma is sexxxxxxy](images/emmaprofilepic.jpg)
+
+# Things to do
+- [x] get @alikawahji to see if I'm doing this right
+- [ ] learn more markdown
+- [ ] port all D&D notes to Obsidian \(in progress\)
+- [x] Have a good day :smile:
