@@ -26,3 +26,9 @@ As Calen once said...
 > By Merlin's Frilly Panties!
 
 \*Shocked face\*
+
+Pros to D&D | Cons to D&D
+------------|------------
+Pretty Dice | Time Commitment
+Spend time with friends | Can drag on
+Live out your fantasies | Math
