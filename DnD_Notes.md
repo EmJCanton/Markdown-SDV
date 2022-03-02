@@ -1,5 +1,7 @@
-# Cintessa's First Dream
 ❧
+
+# Cintessa's First Dream
+
 For the past month your dreams have been *fitful* and *strange*, dreams of a woman whose voice rasps from behind a darkened veil. This garment conceals all features, save for a pair of **pure white eyes** that seem to stare deep into your soul. 
 
 In each dream, she speaks of secrets of your past – knowledge buried so deep not a single other soul could know. She speaks of *ambition* and *envy*, of mistakes made and lives lost. She speaks of answers to questions **you’d never thought to ask**, of awakened power and a rewound clock. She speaks of threads of fate, **cut too soon**, and the means to their mending. 
@@ -28,5 +30,7 @@ And as the pale Autumn sun rose overhead, you
 3. and let fate guide your steps onwards.
 
 ![The Conjurer](/images/conjurer.png)
+
 The Conjurer (WoTC, 2016)
+
 ❧
