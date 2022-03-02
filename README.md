@@ -42,3 +42,5 @@ Live out your fantasies | Math
 - [ ] learn more markdown
 - [ ] port all D&D notes to Obsidian \(in progress\)
 - [x] Have a good day :smile:
+
+`console.Log {"Hello World"}`
